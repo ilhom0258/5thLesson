@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\projects\\5thLesson\\5thLesson.csproj": {}
+    "C:\\projects\\5thLesson\\5thLesson.csproj": {}
   },
   "projects": {
-    "c:\\projects\\5thLesson\\5thLesson.csproj": {
+    "C:\\projects\\5thLesson\\5thLesson.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\projects\\5thLesson\\5thLesson.csproj",
+        "projectUniqueName": "C:\\projects\\5thLesson\\5thLesson.csproj",
         "projectName": "5thLesson",
-        "projectPath": "c:\\projects\\5thLesson\\5thLesson.csproj",
+        "projectPath": "C:\\projects\\5thLesson\\5thLesson.csproj",
         "packagesPath": "C:\\Users\\Ilhom\\.nuget\\packages\\",
-        "outputPath": "c:\\projects\\5thLesson\\obj\\",
+        "outputPath": "C:\\projects\\5thLesson\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ilhom\\AppData\\Roaming\\NuGet\\NuGet.Config"

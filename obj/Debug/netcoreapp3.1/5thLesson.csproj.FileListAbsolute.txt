@@ -1,0 +1,13 @@
+C:\projects\5thLesson\obj\Debug\netcoreapp3.1\5thLesson.csprojAssemblyReference.cache
+C:\projects\5thLesson\obj\Debug\netcoreapp3.1\5thLesson.csproj.CoreCompileInputs.cache
+C:\projects\5thLesson\obj\Debug\netcoreapp3.1\5thLesson.AssemblyInfoInputs.cache
+C:\projects\5thLesson\obj\Debug\netcoreapp3.1\5thLesson.AssemblyInfo.cs
+C:\projects\5thLesson\bin\Debug\netcoreapp3.1\5thLesson.exe
+C:\projects\5thLesson\bin\Debug\netcoreapp3.1\5thLesson.deps.json
+C:\projects\5thLesson\bin\Debug\netcoreapp3.1\5thLesson.runtimeconfig.json
+C:\projects\5thLesson\bin\Debug\netcoreapp3.1\5thLesson.runtimeconfig.dev.json
+C:\projects\5thLesson\bin\Debug\netcoreapp3.1\5thLesson.dll
+C:\projects\5thLesson\bin\Debug\netcoreapp3.1\5thLesson.pdb
+C:\projects\5thLesson\obj\Debug\netcoreapp3.1\5thLesson.dll
+C:\projects\5thLesson\obj\Debug\netcoreapp3.1\5thLesson.pdb
+C:\projects\5thLesson\obj\Debug\netcoreapp3.1\5thLesson.genruntimeconfig.cache
